@@ -6,7 +6,7 @@
 3. Be an Amateur Evangelist 😄
 
 
-victor.zxy@outlook.com && https://victorzeng.github.io/
+Victor.Zxy@outlook.com && https://victorzeng.github.io/
 
 <!--
 **VictorZeng/VictorZeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
