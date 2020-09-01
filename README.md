@@ -1,7 +1,7 @@
 
-1. AliYun MVP Member
-2. Open Source enthusiast and contributor
-3. Be an amateur evangelist 😄
+1. ALiYun MVP Member
+2. Open Source Enthusiast and Contributor
+3. Be an Amateur Evangelist 😄
 
 victor.zxy@outlook.com && https://victorzeng.github.io/
 
