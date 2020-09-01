@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=VictorZeng&?count_private=true&show_icons=true&theme=dark" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=VictorZeng&count_private=true&hide_title=true&show_icons=true&theme=dark" />
 
 
 1. ALiYun MVP Member
