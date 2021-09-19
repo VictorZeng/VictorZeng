@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=VictorZeng&count_private=true&hide_title=true&show_icons=true&theme=dark" />
 
 
-1. ALiYun MVP Member
+1. AliCloud MVP Member
 2. Open Source Enthusiast and Contributor
 3. Be an Amateur Evangelist 😄
 
